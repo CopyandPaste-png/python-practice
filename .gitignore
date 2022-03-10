@@ -1,0 +1,6 @@
+zignore/
+config/requirements.txt
+__pycache__
+newpacks.txt
+test.py
+ffmpeg.exe

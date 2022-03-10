@@ -1,0 +1,217 @@
+Wall Shot Mastery:8989-46CE-AE49-056:Wayprotein
+Advanced Rebounds:A33B-12BA-9F5E-EBD:Wayprotein
+Advanced Aerials:6CE4-7D20-7BD5-C80:Wayprotein
+Backboard Therapy:D7F8-FD53-98D1-DAF:Wayprotein
+Basic Striker:CD9F-35DB-4025-F73:Wayprotein
+Basic Goalie:8AB4-EEDA-CEAB-4BC:Wayprotein
+Intermediate Aerials:537C-F257-0F3A-4CB:Wayprotein
+Advanced Goalie:776F-E2BB-2993-78D:Wayprotein
+Advanced Striker:C8B8-A3CC-B543-663:Wayprotein
+Popup Aerials:DE43-1984-7858-7A5:Wayprotein
+Dribbling:3CD7-85FA-811B-BC2:Wayprotein
+Basic Wall Clears:70F1-3753-10A1-BA2:Wayprotein
+Air Dribbles:6D84-3B06-1FA9-CAB:Wayprotein
+Advanced Wall Clears:0A7E-C7C8-DE7C-28C:Wayprotein
+Power Clears:34E3-CD33-0A2C-D9B:Wayprotein
+Power Shots:3B69-B8C9-D4B2-A7E:Wayprotein
+Pinch Shots:AA69-A904-F2C5-AF6:Wayprotein
+Ball Catches:C1D5-318A-14BC-A4D:Wayprotein
+Tight Angles:63F5-2ACB-2B05-8B4:Wayprotein
+Half-flips:B194-732A-5AE2-2C6:Wayprotein
+Basic Wall Shots:2D48-B683-1236-C0B:Wayprotein
+Kickoffs:4125-17D5-2C7B-EBE:Wayprotein
+Basic (inverted) Redirects:0697-0491-2D8A-812:Wayprotein
+Advanced Redirects (1-13):CEE4-14DF-0F50-1FC:Wayprotein
+Advanced Redirects (14-26):382B-6321-161F-5E9:Wayprotein
+Passing Sandbox:8B98-96AA-86E4-7A6:Wayprotein
+Flick Sandbox:A980-5F8F-1951-708:Wayprotein
+Novice Powerslides:4A33-624C-0916-8A6:Wayprotein
+Defensive Rotation:0591-21C8-169E-3B4:Wayprotein
+No Boost Saves:9A9C-FE4C-6685-915:Wayprotein
+Bounce Prediction:7B59-EF5B-8F71-645:Wayprotein
+Basic Backboard Double Taps/Passes:FDED-E1E4-19A9-D13:Wayprotein
+Advanced Backboard Double Taps:0BFE-2943-AC6C-E03:Wayprotein
+Shadow Saves:6A8C-7B90-2AAA-B6B:Wayprotein
+Hook Shots:54C3-691A-4F62-801:Wayprotein
+Passing (Downfield left):C833-6A35-A46A-719:Wayprotein
+Passing (Downfield Right):0590-9035-801A-E42:Wayprotein
+Passing (Infield):CDBB-8953-C052-654:Wayprotein
+Passing (Backboard):3075-D01E-A839-8E6:Wayprotein
+Ceiling Shots:AFC9-2CCC-95EC-D9D:Wayprotein
+Air Roll Powershots:D502-4970-8E17-749:Wayprotein
+Offensive Corner Bounces:423F-750F-72C7-B44:Wayprotein
+Pre-Jump Backboard Clears:F1D5-36FA-257C-80A:Wayprotein
+Intermediate Power Slides:A49C-FECE-12C7-927:Wayprotein
+Dribble Flick Playground:7067-44F0-A1C8-7DA:Wayprotein
+Air Roll Ground Shots:B4EB-C56A-BA9D-530:Wayprotein
+Advanced Corner Defense:253E-4CE2-B0A4-A5E:Wayprotein
+Sidewall Prediction:40F5-A497-3534-56A:Wayprotein
+Driving Backwards:A60C-4CD2-80FF-C93:Wayprotein
+Backwards Aerials:9A54-0D10-1717-7F4:Wayprotein
+Advanced Wall Shots:872B-1941-BC35-8E3:Wayprotein
+Goal Roof Saves:8100-D918-13C7-394:Wayprotein
+Realistic Air Dribbles:D74D-FB19-06F3-CC6:Wayprotein
+Novice Aerials:0A40-E21D-61C1-49C:Wayprotein
+Novice Rebounds:C64E-54EA-FA78-707:Wayprotein
+Novice Clears:E530-9668-C5B6-086:Wayprotein
+Novice Striker:137F-0F44-6FA1-91E:Wayprotein
+Novice Defender:87E7-773A-CBE5-B2C:Wayprotein
+Bounce Prediction 2.0:1C21-97B2-28FC-8F3:Wayprotein
+Uncomfortable Wall Touches:A4CB-CBCD-E11F-8A5:Wayprotein
+Aerial Hangs (Freestyle):331A-CF98-F2AE-AE9:Wayprotein
+Back Wall Shots:B185-5419-CF91-B42:Wayprotein
+Air Roll Aerials:30EF-9E98-C844-E83:Wayprotein
+Uncomfortable Power Hits:AB3C-2C28-BE2E-D5E:Wayprotein
+Redirect Consistency:410E-0170-C52F-E8A:Wayprotein
+Grand Champion Redirects:34AF-5323-A9EF-E80:Wayprotein
+Catches:A85F-0C53-A1BE-75E:Wayprotein
+Rebound Consistency:E744-D5FC-64A7-037:Wayprotein
+Double Touch Consistency:01DC-0717-23F6-E5E:Wayprotein
+Shooting Consistency:4912-A5C9-9A56-555:Wayprotein
+Ceiling Bounces:D68F-3BD8-6DFD-4A5:Wayprotein
+Tips and Doinks:8BED-540E-E0DE-740:Wayprotein
+Striker Instinct:AE53-497A-804E-AD3:Wayprotein
+High Aerials:2059-414E-B380-325:Wayprotein
+Double Tap Playground:CAFC-FB3E-3C0F-B8F:Wayprotein
+Advanced Ceiling Shots:86BB-9444-FFD6-D61:Wayprotein
+Wall Clear Timing:A3F6-E341-A813-20E:Wayprotein
+Back Flip Powershots:1C5E-9B8C-C3B4-DBD:Wayprotein
+Wall Speed:8FCC-C1CA-0117-B01:Wayprotein
+Off Backboard Aerials 2:82D7-74D3-9F6B-D19:Lie Algebra Cow
+Angled Off Backboard Aerials:4CBA-3A67-8523-C42:Lie Algebra Cow
+Backward Off Backboard Aerials:B884-56DE-D5BD-15E:Lie Algebra Cow
+Over Net Wrong Way Redirects Left:60B3-536C-BC78-A42:Lie Algebra Cow
+Across Net Wrong Way Redirects:7735-DDE4-63B3-7B8:Lie Algebra Cow
+Over Net Wrong Way Redirects:E715-65CF-AED4-C46:Lie Algebra Cow
+Fast and High Catches:5E88-3D1C-E4E3-4C4:Lie Algebra Cow
+Intermediate Catches Right:1CAB-BE2D-31BB-EE6:Lie Algebra Cow
+Intermediate Catches Left:480D-81D0-4272-DFC:Lie Algebra Cow
+Easy Drift Catches Right:85B2-6F07-F81D-2DA:Lie Algebra Cow
+Easy Drift Catches Left:3628-EEAA-CC84-384:Lie Algebra Cow
+Side Wall Bounce Catches Right:2577-C09E-E71B-171:Lie Algebra Cow
+Saves Rolling Around Corner:D181-03B4-A5CE-773:Lie Algebra Cow
+High Saves From Net:AF9D-075F-EB10-44E:Lie Algebra Cow
+Angled Backboard from Net:A06B-FBEA-BE5A-6F4:Lie Algebra Cow
+High Saves From Out of Net:DB00-1C7E-57FF-926:Lie Algebra Cow
+Aerial Backboard Saves:3ACB-0F53-2775-A95:Lie Algebra Cow
+Awkard Corners:1E10-7577-20B6-ADD:Lie Algebra Cow
+Punishing Weak Clears:EB33-9409-620E-A52:Lie Algebra Cow
+Punishing Weak Clears 2:DD41-7D41-7D4A-9E1:Lie Algebra Cow
+Punishing Weak Corner Clears:0D81-3523-A27B-F07:Lie Algebra Cow
+Punishing Bad Clears:CB64-C486-083A-EEC:Lie Algebra Cow
+Punishing Weak Crosses:A645-4F36-28AC-A9D:Lie Algebra Cow
+Punishing Missed Flicks:8C93-648C-0D09-514:Lie Algebra Cow
+Punishing Weak Shots:E1F3-0E60-4256-ADF:Lie Algebra Cow
+Top of Net Saves:6E21-04CA-54EE-C04:Lie Algebra Cow
+Top of Net Clears:784D-6B21-172D-DB3:Lie Algebra Cow
+Derusting/General Fundamentals:CB21-B4FA-4E24-DB8:Lie Algebra Cow
+Drift Same Side Backboard Clears:4C83-7F8C-5F52-395:Lie Algebra Cow
+Drift Over Net Backboard:51E2-38AE-0CAB-DA4:Lie Algebra Cow
+Drift Wall Clears:36B0-3768-138B-F87:Lie Algebra Cow
+Drift Air Roll Shots:A7C4-FD1B-962D-C4D:Lie Algebra Cow
+Drift Air Roll Shots 2:6094-AAC5-2DDE-AD1:Lie Algebra Cow
+Warmup Pack:65B4-B786-FF3B-430:Lie Algebra Cow
+Drift & Wave Dash Recovery:C809-86F7-C4BB-F1C:mcwoody
+Falling Dodge Timing:F1B4-5009-14A7-D22:mcwoody
+Turn and Clear:2710-736C-B1A7-E64:KindaFilthy
+Ball Carry:004F-04F5-FA01-ED1:tRose888
+Bounce Dribble:5B28-3395-F15A-01E:tRose888
+Freestyles:53BD-4CDF-CC23-F2C:tRose888
+Retreating Saves:DA4B-98A0-BDBD-D36:tRose888
+Sideways Aerials:EA43-4BC8-8068-B03:tRose888
+Back Wall Clears:23C2-024C-9C08-CF3:tRose888
+Corner Defense:12AD-1F43-BE6C-A75:tRose888
+Wall Shots:B670-C0F6-623D-D03:tRose888
+Backboard Rebounds:EAFD-E47A-19AC-903:tRose888
+Off and On Shots:65BE-E2AC-DFEF-D47:tRose888
+90 Degree Aerials:9ACD-CA3D-B52B-013:tRose888
+Kickoff Redirects:370C-9A18-5C4D-2A1:tRose888
+Wall Air Dribble:C0DE-BFD7-4B51-B0F:tRose888
+Kickoff Redirects:AEA3-64CF-4309-A0F:Timothy RL
+MasonRL Air Dribbles:A67A-8A08-B91C-77D:Timothy RL
+Shot Consistency:1C51-E578-6CEA-79D:Nox
+Karma's training pack:0C38-2D11-109D-EAF:Karma
+Easy redirects and Backboard Shots:7D8F-A579-6A47-4DF:Moldy Bread
+Relaxing Shots:1467-6232-A3A9-E9C:GClipse
+Seebs Mixed Bag:799B-5986-25F0-27C:Seebrify
+Ultimate warmup, 50 shots!:DF5E-21DD-54B7-A56:OXER0X0
+Wall Shots:89CC-7D0D-00FA-CB2:VicenzoTheGooch
+Nick's warmup drills:0B61-E93D-06A2-0CF:BSY_Nick
+Rebounds/Double Touch:5B1B-F918-20B9-81C:PotatoGD18
+Dribble Turning Training:257B-829D-1BDB-479:VicenzoTheGooch
+Biddles Warmup #1:AA16-1CC4-3EDC-F8F:Biddles
+Biddles Warmup #2:1D5C-22AB-DD8A-7EE:Biddles
+Biddles Progression:7E96-B9C7-3AC0-9B7:Biddles
+Biddles Consistency #1:55C9-36FE-613D-7F1:Biddles
+Biddles Consistency #2:27FE-E3D7-7FB5-7F4:Biddles
+Passes You Should Put on Net:E5AC-0297-356A-3FF:Biddles
+Wall to Backboard Double Touch:9658-BA57-D8BB-5BA:Biddles
+Biddles Wall Bounce Clears:E445-AA70-ABF1-163:Biddles
+Wall "Pinches":DD78-31C9-C06E-D1F:Biddles
+Biddles Insane Aerials:4352-185A-E719-98D:Biddles
+Easy Backboard Rebound Shots:2719-4FBA-A810-0B4:Dauntless
+Backboard Shots:93F5-4449-9B4D-FC8:Jayless
+Saves:7033-6D0F-770A-9F1:Jayless
+Clears:C5B4-0C98-5073-BB9:Jayless
+Wall shots:F4AB-99FA-D6B4-A05:Jayless
+Backboard Saves:1CD8-5861-D9C9-965:Jayless
+Angle shots:A8EA-2C17-FEA5-4D1:Jayless
+Air Dribbling:D749-88BB-AF78-1AB:Jayless
+Double touches:D545-35A7-72E0-C59:Jayless
+Pass redirects:B584-8606-10A5-00E:Jayless
+Pinching:447F-E68A-DD0C-CB6:Jayless
+Angled Angel Saves:DA99-C25B-AFC0-B13:Jayless
+Basic Shots 1:E146-BD21-EBE3-8D4:Jayless
+Doinks:D0BF-3B8E-0264-1FA:Jayless
+Monster Clear Shots:0B3C-B98D-46AB-490:Yeeza
+Powershots:7028-5E10-88EF-E83:Yeeza
+Ceiling SHots:94D7-0D24-CCDF-7A7:Yeeza
+Air Dribbling:C15E-3E88-8FDE-E85:Yeeza
+Rebound Shots (Backboard):CC09-D39F-19FC-A03:Yeeza
+Wall Air Drags:2607-D2A5-E72D-DA6:Yeeza
+Epic Saves:84C8-9584-693F-D74:Yeeza
+Japanese Freestyle:5689-7BDE-487A-11C:Yeeza
+Insane Redirects:F272-0A07-6130-96B:Yeeza
+Delayed Flicks:3337-A6D5-AFF9-C2C:Yeeza
+Mastering Kickoffs:8939-4C63-B233-83C:Yeeza
+Air Roll Shots:84D2-072D-80CF-7D0:Yeeza
+Ball Flip Reset Shots:B5AC-17E0-4133-B8A:Yeeza
+Wave Dash Shots:F9EF-2D99-BA51-9E8:Yeeza
+No Flip Clears:50A0-CCEF-2350-4A4:Yeeza
+Cancel/Half Flip Shots:306E-237A-053E-BE1:Yeeza
+Wall Stop Shots:4D75-FCFE-4D1D-9E7:Yeeza
+Wall Redirects:399A-A83A-5D48-9D5:Yeeza
+Overhead Saves:9223-FCC3-D504-D1B:Yeeza
+Redirects:C272-B586-A45A-367:Jayless
+Redirects 2:DD33-F54B-933C-702:Jayless
+Underside Redirects:4C9D-1E98-80E4-2AE:Shimmy
+Pre-Jumping:2BA6-DB20-F66F-9B2:Wayprotein
+Basic wall and ground dribble:6B41-2BF7-9A73-F15:Tiamat
+Carl's Aerial Easy Training:F7F0-76FC-994E-330:Tiamat
+Carl's Aerial Training:57AA-3994-71EC-7BC:Tiamat
+Carl's Goalie Training:ABD0-D3D9-A1A9-0CA:Tiamat
+Topside Redirects:6468-C527-DE04-551:Shimmy
+Backboard Dive Saves:688C-D602-EFBB-948:Shimmy
+Single Jump Front Flip Aerials:675A-3DFE-6533-D7A:Wayprotein
+Situations You Should Pass Mid:BF46-4A0A-986F-CEF:Wayprotein
+Offensive Essentials:5485-ABC6-261B-271:Wayprotein
+Air Dribble Playground:F4F4-9F44-1EC7-5F8:Wayprotein
+50 Shot GC+ Warmup:0973-0B96-91BB-39E:Jabonilla
+Slight Space Accuracy:A6E8-148F-FE91-4B6:Jabonilla
+Sharp's Double Touch Pack:61CC-2C5D-1D10-EAC:Jabonilla
+Flicking:0321-CBB9-0611-81E:Jabonilla
+Hard Hitting Ground SHots:7225-597F-BD00-348:Jabonilla
+Off Da Wall:4876-90E1-80D8-CA8:Jabonilla
+GC Level Redirects:04FB-0570-CB35-DEA:Jabonilla
+P-kop's Flying Potato (Air Control):00A0-4DC7-9CD4-C3E:Jabonilla
+Powerslide Through the Center:2173-6695-8614-AC5:Wayprotein
+Wall On & Off:EE06-F9A1-EB52-DD2:Wayprotein
+Aerial Control Sequence:92E0-1BDD-6BCC-F4D:Wayprotein
+Inside Net Recovery:D3D0-E686-F4AD-809:Wayprotein
+Tokyo Underpass Recovery:BAE5-8FA9-75C9-0B8:Wayprotein
+Wall Follow Ups:EB7A-E682-3319-87:Wayprotein
+power clears:34E3-CD33-0A2C-D9BA:
+power shots:3B69-B8C9-D4B2-A7E3:
+pinch shots:AA69-A904-F2C5-AF69:
+tight angles:63F5-2ACB-2B05-8B46:
+half-flips:B194-732A-5AE2-2C61:

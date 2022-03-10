@@ -1,0 +1,16 @@
+discord==1.7.3
+discord.py==1.7.3
+asyncio
+python-dotenv
+pytz
+datetime
+youtube_dl
+async_timeout
+asyncio
+PyNaCl
+discord.py[voice]
+youtube-dl
+aiohttp
+beautifulsoup4
+spotipy
+requests
